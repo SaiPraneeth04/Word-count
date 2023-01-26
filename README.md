@@ -27,6 +27,6 @@ with open('text.txt','r') as f1:
 print("Number of words in a file = {}".format(num_words))
 ```
 ### OUTPUT:
-![MODEL](/jccomhar.bmp)
+![MODEL](/word%20count.jpg)
 ## RESULT:
 Thus the program is written to find the word count from a text.
