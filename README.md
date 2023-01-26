@@ -19,6 +19,8 @@ The splited and stored in the variable, use len() function of the splited word v
 End the program.
 ## PROGRAM:
 ```python
+# Developed By: Sai Praneeth K
+# Reference number: 22005263
 num_words=0
 with open('text.txt','r') as f1:         
     for i in f1:
@@ -27,6 +29,6 @@ with open('text.txt','r') as f1:
 print("Number of words in a file = {}".format(num_words))
 ```
 ### OUTPUT:
-![MODEL](/word%20count.jpg)
+![MODEL](/word%20count1.jpg)
 ## RESULT:
 Thus the program is written to find the word count from a text.
